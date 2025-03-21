@@ -2,7 +2,7 @@ This repository is for the paper: How AI and Human Behaviors Shape Psychosocial 
 
 [Link to paper](https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/)
 
-In our paper, we use a set of classifiers called "Social Classifiers" to target prosocial and socially improper behaviors in AI Chatbot's responses.
+In our paper, we used a set of classifiers called "Social Classifiers" to target prosocial and socially improper behaviors in an AI chatbot's responses.
 
 # SocialClassifiers
 
