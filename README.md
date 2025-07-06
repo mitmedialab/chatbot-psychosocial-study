@@ -13,6 +13,11 @@ In the literature, prosocial behaviors are defined as "acts that are [...] gener
 
 - `assets/definitions` contains the definitions for SocialClassifiers.
 
+## Running classification
+
+To use the SocialClassifiers to classify a set of conversations, you can refer to the [sample script](https://github.com/openai/emoclassifiers/?tab=readme-ov-file#socialclassifiers-classification) in the [EmoClassifiers](https://github.com/openai/emoclassifiers) repository.
+
+
 ## Citation
 To cite our paper and the SocialClassifiers:
 ```
